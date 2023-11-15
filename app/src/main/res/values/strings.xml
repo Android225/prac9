@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinPract1</string>
+    <string name="screen_home">Главный экран</string>
+    <string name="screen_menu">Меню</string>
+</resources>
